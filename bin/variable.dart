@@ -11,5 +11,6 @@ void main(){
   String n = "sirawich";
   int age = 23;
   print("my name is $n i'm $age agoo ");
+  print("my name is ${n.toUpperCase()} i'm $age agoo ");
 }
 
