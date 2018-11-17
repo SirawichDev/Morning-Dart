@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c761369e-9563-4b3f-b091-93117a328fac" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/bin/variable.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/variable.dart" afterDir="false" />
-    </list>
+    <list default="true" id="c761369e-9563-4b3f-b091-93117a328fac" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,11 +40,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ifStatement.dart" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ifStatement.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bin/ifStatement.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="184">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="func.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bin/func.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="looper.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/looper.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -78,6 +94,8 @@
         <option value="$PROJECT_DIR$/bin/main.dart" />
         <option value="$PROJECT_DIR$/bin/variable.dart" />
         <option value="$PROJECT_DIR$/bin/ifStatement.dart" />
+        <option value="$PROJECT_DIR$/bin/looper.dart" />
+        <option value="$PROJECT_DIR$/bin/func.dart" />
       </list>
     </option>
   </component>
@@ -152,9 +170,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.statement">
+  <component name="RunManager" selected="Dart Command Line App.func">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="func" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/func.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="loop" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/looper.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="filePath" value="$PROJECT_DIR$/bin/variable.dart" />
@@ -205,6 +231,8 @@
     <list>
       <item itemvalue="Dart Command Line App.main.dart" />
       <item itemvalue="Dart Command Line App.statement" />
+      <item itemvalue="Dart Command Line App.loop" />
+      <item itemvalue="Dart Command Line App.func" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -217,12 +245,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542422277518</updated>
-      <workItem from="1542422285295" duration="2225000" />
+      <workItem from="1542422285295" duration="3660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2225000" />
+    <option name="totallyTimeSpent" value="3660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="1680" height="1366" extended-state="0" />
@@ -297,10 +325,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bin/looper.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bin/ifStatement.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="184">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/func.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="43" />
         </state>
       </provider>
     </entry>
